@@ -1,5 +1,5 @@
 #!/bin/bash
-cd testik # Your app working directory!!!
+cd ffllaapp # Your app working directory!!!
 export PORT=5000
 unset PIP_USER
 
